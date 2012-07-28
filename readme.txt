@@ -1,6 +1,6 @@
 === Twitter Fontana Widget ===
-Contributors: Eight Media
-Donate link: http://www.eight.nl (just tell us if you like it!)
+Contributors: stetelepta
+Donate link: http://www.eight.nl
 Tags: twitter, widget, social, sidebar, last, tweet, tweets, tweetbox, twitterfontana, fontana
 Requires at least: 3.4.1
 Tested up to: 3.4.1
@@ -9,18 +9,13 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Create visual engaging twitter visualizations with Twitter Fontana
-
 == Description ==
 
-Sidebar widget to visualize tweets for a given search query. Enter a keyword, choose an animation, and customize the appearance to your liking.
-
-This plugin provides the sidebar widget, and a shortcode to embed the widget in your main content. The widget just inserts an iframe, so if you need more flexibility, visit twitterfontana.com, and use the embed code directly.
-
-TwitterFontana is a open-source alternative for Flash based Twitter Fountains and tweetwidgets, it is built using HTML5, CSS (SASS) and Javascript. It is hosted at https://github.com/EightMedia/TwitterFontana
+Sidebar widget to visualize tweets for a given search query. Enter a keyword, choose an animation, and customize the appearance to your liking. This plugin provides the sidebar widget, and a shortcode to embed the widget in your main content. The widget just inserts an iframe, so if you need more flexibility, visit twitterfontana.com, and use the embed code directly. TwitterFontana is a open-source alternative for Flash based Twitter Fountains and tweetwidgets, it is built using HTML5, CSS (SASS) and Javascript. It is hosted at https://github.com/EightMedia/TwitterFontana
 
 **Features**
 
-In admin:
+In the admin:
 
 * Easy to install.
 * Easy configuration (Appearance -> Widgets).
@@ -42,7 +37,7 @@ In your site:
 
 == Installation ==
 
-You can use one of the both method :
+You can use one of the following methods:
 
 **Installation via your Wordpress website**
 
@@ -96,13 +91,13 @@ Available options :
 
 == Changelog ==
 
-= 1.0.0 =
+= 1.0 =
 
 * Initial release, beta 
 
 == Upgrade Notice ==
 
-= 1.0.0 =
+= 1.0 =
 
 * Initial release, first version
 

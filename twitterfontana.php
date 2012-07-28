@@ -4,7 +4,7 @@
  * Plugin URI: http://www.twitterfontana.com
  * Description: Beautiful, customizable tweet visualizations for your blog
  * Author: Eight Media / Salmon Tetelepta
- * Version: 0.1
+ * Version: 1.0
  * Author URI: http://www.eight.nl
  * License: GPLv2 or later
  */
@@ -26,7 +26,7 @@ You should have received a copy of the GNU General Public License along with thi
 
 */
 
-define('TWITTERFONTANA_VERSION', '1.1.1');
+define('TWITTERFONTANA_VERSION', '1.0');
 define('TWITTERFONTANA_PLUGINBASENAME', dirname(plugin_basename(__FILE__)));
 define('TWITTERFONTANA_PLUGINPATH', PLUGINDIR . '/' . TWITTERFONTANA_PLUGINBASENAME);
 
