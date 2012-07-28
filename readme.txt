@@ -15,21 +15,11 @@ Sidebar widget to visualize tweets for a given search query. Enter a keyword, ch
 
 **Features**
 
-In the admin:
-
 * Easy to install.
 * Easy configuration (Appearance -> Widgets).
 * Highly customizable (Animation effects, fonts, background colors, background image)
 * Use custom CSS for maximum flexibility
 * Shortcode to insert the widget where you want
-
-In your site:
-
-* Smart default style (CSS)
-* Display link (with special CSS classes) for hastags, users, and web link (`nofollow` links)
-* Display twitter's user link and statut's link
-* Display source (web, Tweetdeck, etc.) when it's possible
-* In option: little slideshow of one tweet in a list of tweets
 
 **Languages**
 
