@@ -251,7 +251,7 @@ class Twitterfontana_Widget extends WP_Widget {
 	}
 
 	function twitterfontana_output($args = array(), $position) {
-		echo '<iframe src="http://twitterfontana.com/fountain.html?embed=true&twitter_search=' . $args['twitterfontana_twittersearch'] . '&effect=' . $args['twitterfontana_effect'] . '&message_animate_interval=' . $args['twitterfontana_message_animate_interval'] . '&custom_css=' . $args['twitterfontana_custom_css'] . '&font_face=' . $args['twitterfontana_font_face']. '&text_color=' . urlencode($args['twitterfontana_text_color']) . '&special_color=' . urlencode($args['twitterfontana_special_color']) . '&bg_color=' . urlencode($args['twitterfontana_bg_color']) . '&bg_image=' . $args['twitterfontana_bg_image']. '&box_bg=' . urlencode($args['twitterfontana_box_bg']) . '" frameborder="0" width="100%" height="300" scrolling="no"></iframe>';
+		echo '<iframe src="http://twitterfontana.com/fountain.html?embed=true&twitter_search=' . $args['twitterfontana_twittersearch'] . '&effect=' . $args['twitterfontana_effect'] . '&message_animate_interval=' . $args['twitterfontana_message_animate_interval'] . '&custom_css=' . $args['twitterfontana_custom_css'] . '&font_face=' . $args['twitterfontana_font_face']. '&text_color=' . urlencode($args['twitterfontana_text_color']) . '&special_color=' . urlencode($args['twitterfontana_special_color']) . '&bg_color=' . urlencode($args['twitterfontana_bg_color']) . '&bg_image=' . $args['twitterfontana_bg_image']. '&box_bg=' . urlencode($args['twitterfontana_box_bg']) . '&utm_source=plugin&utm_medium=embed&utm_campaign=wordpress" frameborder="0" width="100%" height="300" scrolling="no"></iframe>';
 
 	} // end of output
 	
