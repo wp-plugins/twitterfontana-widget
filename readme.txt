@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Create visual engaging twitter visualizations with Twitter Fontana
 == Description ==
 
-Sidebar widget to visualize tweets for a given search query. Enter a keyword, choose an animation, and customize the appearance to your liking. This plugin provides the sidebar widget, and a shortcode to embed the widget in your main content. The widget just inserts an iframe, so if you need more flexibility, visit twitterfontana.com, and use the embed code directly. TwitterFontana is a open-source alternative for Flash based Twitter Fountains and tweetwidgets, it is built using HTML5, CSS (SASS) and Javascript. It is created by Eight Media (www.eight.nl) and hosted at https://github.com/EightMedia/TwitterFontana. 
+Sidebar widget to visualize tweets for a given search query. Enter a keyword, choose an animation, and customize the appearance to your liking. This plugin provides the sidebar widget, and a shortcode to embed the widget in your main content. The widget just inserts an iframe, so if you need more flexibility, visit twitterfontana.com, and use the embed code directly. TwitterFontana is a open-source alternative for Flash based Twitter Fountains and tweetwidgets, it is built using HTML5, CSS (SASS) and Javascript. It is created by Eight Media (http://www.eight.nl) and hosted at https://github.com/EightMedia/TwitterFontana. 
 
 **Features**
 
