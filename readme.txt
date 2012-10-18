@@ -3,8 +3,8 @@ Contributors: stetelepta
 Donate link: http://www.eight.nl
 Tags: twitter, widget, social, sidebar, last, tweet, tweets, tweetbox, twitterfontana, fontana
 Requires at least: 3.4.1
-Tested up to: 3.4.1
-Stable tag: 1.0
+Tested up to: 3.4.2
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -58,10 +58,11 @@ Available options :
 
 * twittersearch: searchquery for tweets, defaults to "twitterfontana"
 * message_animate_interval: number of millisecondes between animations, default is 6000.
-* effect: currently three animation effects are available: 
+* effect: currently the following animation effects are available:
     * "Slide" (default)
     * "Fade"
     * "Zoom"
+    * "Compress"
 * custom_css: url for custom styling, default empty
 * font_face: available fonts:
     * "Arial, sans-serif" (default)
@@ -73,19 +74,34 @@ Available options :
     * "Handlee, cursive"
     * "Crete Round, serif"
     * "Enriqueta, serif"
-* text_color: Font color of the message, default: "#ffffff".
-* special_color: Font color of hashtags and usernames in the tweet, default: "#aaea71".
-* bg_color: Background color of the widget, default: "#482b73".
-* bg_image: Url of background image of the widget, default empty
-* box_bg: Background color of tweet, default: #80b43c
+* text_color: Font color of the message, default: "#3f3f3f".
+* special_color: Font color of hashtags and usernames in the tweet, default: "#0072bc".
+* bg_color: Background color of the widget, default: "#0072bc".
+* bg_image: Url of background image of the widget, default empty.
+* box_bg: Background color of tweet, default: "#f9f8f7".
 
 == Changelog ==
 
+= 1.1 =
+
+* Added "Compress" effect 
+* Tested for 3.4.2
+* New in Twitterfontana:
+    * New default colors
+    * IE 8 bugfixes
+    * Improved responsiveness
+    * Assets optimized for retina displays
+
 = 1.0 =
 
-* Initial release, beta 
+* Initial release 
 
 == Upgrade Notice ==
+
+= 1.1 =
+
+* Added "Compress" effect
+* New default colors
 
 = 1.0 =
 
