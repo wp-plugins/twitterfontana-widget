@@ -4,14 +4,17 @@
  * Plugin URI: http://www.twitterfontana.com
  * Description: Beautiful, customizable tweet visualizations for your blog
  * Author: Eight Media / Salmon Tetelepta
- * Version: 1.0
+ * Version: 1.1
  * Author URI: http://www.eight.nl
  * License: GPLv2 or later
  */
 
 /**
- * = 1.0 beta =
+ * = 1.0 =
  * First release
+ * 
+ * = 1.1 =
+ * Added Compress effect
  */
 
 /*
@@ -57,17 +60,18 @@ class Twitterfontana_Widget extends WP_Widget {
 			'twitterfontana_effect' => 'Slide',
 			'twitterfontana_custom_css' => '',
 			'twitterfontana_font_face' => 'Arial, sans-serif',
-			'twitterfontana_text_color' => '#ffffff',
-			'twitterfontana_special_color' => '#aaea71',
-			'twitterfontana_bg_color' => '#482b73',
+			'twitterfontana_text_color' => '#3f3f3f',
+			'twitterfontana_special_color' => '#0072bc',
+			'twitterfontana_bg_color' => '#0072bc',
 			'twitterfontana_bg_image' => '',
-			'twitterfontana_box_bg' => '#80b43c'
+			'twitterfontana_box_bg' => '#f9f8f7'
 		));
 		
 		$tf_animation_effects = array(
 			'Slide' => 'Slide',
 			'Fade' => 'Fade',
-			'Zoom' => 'Zoom'
+			'Zoom' => 'Zoom',
+			'Compress' => 'Compres'
 		);
 		
 		$tf_font_faces = array(
