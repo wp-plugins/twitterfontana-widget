@@ -84,7 +84,8 @@ Available options :
 
 = 1.1 =
 
-* Added "Compress" effect 
+* Added "Compress" effect
+* Height of widget now adjustable
 * Tested for 3.4.2
 * New in Twitterfontana:
     * New default colors
@@ -100,10 +101,9 @@ Available options :
 
 = 1.1 =
 
-* Added "Compress" effect
-* New default colors
+* New "Compress" effect, height of widget adjustable, new default color scheme
 
 = 1.0 =
 
-* Initial release, first version
+# Initial release, first version
 
